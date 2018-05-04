@@ -1,0 +1,50 @@
+[
+  {
+    "name": "ideal Apartment for 2 persons 45m2",
+    "imageUrl": "/images/9a169651-04b1-4ea0-b510-49f41c9a186b.jpg",
+    "price": 164,
+    "priceCurrency": "EUR",
+    "lat": 52.357522,
+    "lng": 4.897364
+  },
+  {
+    "name": "Beautiful appartment",
+    "imageUrl": "/images/a7c8fc9f_original.jpg",
+    "price": 200,
+    "priceCurrency": "EUR",
+    "lat": 52.380000,
+    "lng": 4.890000
+  },
+  {
+    "name": "17thC. studio center Amsterdam",
+    "imageUrl": "/images/b2061b6e_original.jpg",
+    "price": 150,
+    "priceCurrency": "EUR",
+    "lat": 52.380000,
+    "lng": 4.860000
+  },
+  {
+    "name": "Central apartment(garden + 2 bikes)",
+    "imageUrl": "/images/bb4e8adf_original.jpg",
+    "price": 115,
+    "priceCurrency": "EUR",
+    "lat": 52.365000,
+    "lng": 4.870000
+  },
+  {
+    "name": "Lovely apartment in the middle of AMS",
+    "imageUrl": "/images/8cbb08e8-257c-45c9-895f-0607a126fe19.jpg",
+    "price": 135,
+    "priceCurrency": "EUR",
+    "lat": 52.367522,
+    "lng": 4.907364
+  },
+  {
+    "name": "Charming studio in 'De Pijp'",
+    "imageUrl": "/images/33ea70e2_original.jpg",
+    "price": 90,
+    "priceCurrency": "EUR",
+    "lat": 52.347522,
+    "lng": 4.917364
+  }
+]
